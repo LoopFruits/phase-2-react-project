@@ -1,11 +1,11 @@
-## Phase-2-React-Project (Tyler G., Kenneth J., Jane K.)
+# Phase-2-React-Project (Tyler G., Kenneth J., Jane K.)
 
-# App Name: "Justin's Personal Vinyl Collection... EVERYTHING MUST GO!(all proceeds do not go to Justin)"
+## App Name: "Justin's Personal Vinyl Collection... EVERYTHING MUST GO!(all proceeds do not go to Justin)"
 
-# Description: Our application displays an e-commerce website that allows users to search, review and purchase their favorite Vinyls. 
+## Description: Our application displays an e-commerce website that allows users to search, review and purchase their favorite Vinyls. 
 
 
-# User Stories: 
+### User Stories: 
 User will be able to:
 
 -Find/search for a vinyl by genre, artist or best sellers.
